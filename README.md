@@ -6,6 +6,11 @@ _     _____ ____  ____ ___ _____
 _________________________________
 Written by Rameez Saiyid
 
+
+
+![alt text](home.png)
+
+
 The following django project tries to accomplish the following:
 
 High level description:

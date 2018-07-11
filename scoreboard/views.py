@@ -10,9 +10,9 @@ import json
 
 # Create your views here.
 
-client_id = "864tpytwsoi6dn"                                                    # Provided by LinkedIn API
-client_secret = "ThUHG9PMBomtFWvn"                                              # Provided by LinkedIn API
-redirect = "http://localhost:8080/score/getAuth/"
+client_id = CLIENTID                                                    # Provided by LinkedIn API
+client_secret = CLIENTSECRET                                            # Provided by LinkedIn API
+redirect = "http://localhost:8000/score/getAuth/"
 auth = ""
 tok = ""
 
